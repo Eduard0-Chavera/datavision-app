@@ -1,0 +1,9 @@
+{
+  "name": "datavision-app",
+  "version": "1.0.0",
+  "description": "Aplicacion web de prueba",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
